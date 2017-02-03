@@ -1,0 +1,16 @@
+{
+  "name": "mocky-server",
+  "version": "0.0.2",
+  "description": "HTTP mock server",
+  "bin": {
+    "mocky": "./bin/mocky"
+  },
+  "author": "Mark Middleton",
+  "license": "MIT",
+  "dependencies": {
+    "basic-auth": "^1.1.0",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "minimist": "^1.2.0"
+  }
+}

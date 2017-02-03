@@ -1,0 +1,12 @@
+[
+  {
+    "method": "GET",
+    "path": "/hello",
+    "reply": {
+      "status": 200,
+      "headers": {"qqqq": "wwww"},
+      "json": {"hello": "world"},
+      "delay": 0
+    }
+  }
+]
